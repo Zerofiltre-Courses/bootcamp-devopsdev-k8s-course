@@ -14,8 +14,8 @@ spec:
     containerPolicies:
     - containerName: "solidinvoice"
       minAllowed:
-        cpu: "250m"
-        memory: "100Mi"
+        cpu: "300m"
+        memory: "150Mi"
       maxAllowed:
-        cpu: "1"
-        memory: "1Gi"
+        cpu: "500m"
+        memory: "200Mi"

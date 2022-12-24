@@ -26,8 +26,8 @@ spec:
             memory: "100Mi"
             cpu: "250m"
           limits:
-            memory: "100Mi"
-            cpu: "250m"
+            memory: "200Mi"
+            cpu: "500m"
         volumeMounts:
         - name: solidinvoice-secret-volume
           mountPath: /opt/srv/config/env.php
