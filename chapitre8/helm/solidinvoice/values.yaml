@@ -40,7 +40,7 @@ nodeSelector:
   dedicated: bootcamp
 
 database:
-  host: mariadb-svc
+  host: mariadb
   port: 3306
   name: solidinvoicebootcamp
   user: solidinvoicebootcamp
