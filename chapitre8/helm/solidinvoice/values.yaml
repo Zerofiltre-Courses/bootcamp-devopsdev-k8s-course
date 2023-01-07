@@ -44,7 +44,7 @@ database:
   port: 3306
   name: solidinvoicebootcamp
   user: solidinvoicebootcamp
-  password: 12345678
+  password: "12345678"
   driver: pdo_mysql
   type: 5.5.5-10.7.7-MariaDB-1:10.7.7+maria~ubu2004
   locale: fr_FR
